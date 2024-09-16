@@ -1,0 +1,8 @@
+body{
+    min-height: 100vh;
+    background-color:rgb(6, 53, 53)! important ;
+}
+
+html{
+    scroll-behavior: smooth;
+}
